@@ -1,0 +1,1 @@
+Welcome to my Minesweeper game, a web-based implementation built using HTML, CSS, and JavaScript. This version offers classic Minesweeper gameplay with customizable grid sizes and mine counts. It features a responsive design suitable for both desktop and mobile devices. To get started, clone the repository, open index.html in your browser, and enjoy the game.
